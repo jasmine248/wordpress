@@ -5,7 +5,7 @@ This WordPress site has been installed on a server running Apache version 2.0. I
      The Plugins used with our sites are HD Quiz and force login. Easily hide your WordPress site from public viewing by requiring visitors to log in first as simple as flipping a switch Make your website private until it’s ready to share publicly, or keep it private for members only.
 HD Quiz is very easy to use plugin to create an unlimited amount of quizzes and embed them onto any page or post. HD Quiz is equally perfect for building strong professional based questionnaires or fun Buzzfeed style Quizes. 
 Steps to be follow
-1.	         Open the website link which I send to you. Abdulhannan.0fees.us/wp this is the link
+1.	         Open the website link which I send to you. abdulhannan.0fees.us/wp this is the link
 2.	         Then register the form In which there is a user and u have to give email for login and 
           password.                        
 3.	          When you register go to login.
